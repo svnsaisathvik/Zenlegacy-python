@@ -1,0 +1,4 @@
+{
+    "admin": ["manage_iam", "scale_ec2"],
+    "user": ["optimize_costs", "incident_resolution"]
+}

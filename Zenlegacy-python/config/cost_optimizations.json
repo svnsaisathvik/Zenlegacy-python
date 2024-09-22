@@ -1,0 +1,7 @@
+{
+    "optimizations": [
+        "Use Reserved Instances",
+        "Enable EC2 Auto Scaling",
+        "Delete unused resources"
+    ]
+}
